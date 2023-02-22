@@ -55,19 +55,19 @@ a  {
 
 
 @media (max-width : 960px) {
-	.container {
+	.card-white {
 		width: 700px;
 	}
 }
 
 @media (max-width : 720px) {
-	.Container {
+	.card-white {
 		width: 500px;
 	}
 }
 
-@media (max-width : 540px) {
-	.Container {
+@media (max-width : 640px) {
+	.card-white {
 		width: 300px;
 	}
 }
